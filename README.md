@@ -7,3 +7,5 @@ This is a solution to the following question: Given a sequence of phonemes as in
 This code utilizes Carnegie Mellon Univeristy's pronouncing dictionary as well as some starter code from kaggle user snimrexzeo (with edits from me) to perform data cleaning. Code to find the word combinations is all written by me.
 
 Coded in Python in Jupyter Notebooks.
+
+Originally created here: https://www.kaggle.com/code/kamaljitgrewal/find-possible-words-from-phonemes
