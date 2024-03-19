@@ -10,4 +10,4 @@ Originally created here: https://www.kaggle.com/code/kamaljitgrewal/find-possibl
 
 ## Example Usage
 
-![find words from phonemes - example usage](https://github.com/Kamal2079/Find-Possible-Words-from-Phonemes/blob/main/find-possible-words-from-phonemes.ipynb)
+![find words from phonemes - example usage](https://github.com/Kamal2079/Find-Possible-Words-from-Phonemes/blob/main/phonemes%20example%20usage.png)
